@@ -1,6 +1,6 @@
 # Installing on your own machine
 
-    git clone http://github.com/lowe0292/vim.git ~/.vim
+    git clone git@github.com:eenewbsauce/vim.git ~/.vim
     ln -s ~/.vim/vimrc ~/.vimrc
     cd ~/.vim
     git submodule update --init --recursive
